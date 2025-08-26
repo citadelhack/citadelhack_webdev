@@ -1,0 +1,7 @@
+[submodule "citadelhack/public"]
+	path = citadelhack/public
+	url = git@github.com:citadelhack/citadelhack.github.io.git
+	branch = main
+[submodule "citadelhack/themes/hello-4s3ti"]
+	path = citadelhack/themes/hello-4s3ti
+	url = git@github.com:coolapso/hugo-theme-hello-4s3ti.git
