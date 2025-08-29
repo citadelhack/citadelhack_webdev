@@ -6,6 +6,7 @@ theme = 'hello-4s3ti'
 [params]
   defaultTheme = "dark"
   backgroundEffects = true
+  backgroundImage = "static/citadel_web.webp"
   showPosts = true
   tags = true
   ReadMoreText = true
@@ -44,11 +45,31 @@ theme = 'hello-4s3ti'
   [[menu.main]]
     identifier = "resources"
     name = "Resources"
-    url = "/resources/"
+    url = "/resources"
     weight = 4
 
   [[menu.main]]
     identifier = "cryptography"
     name = "Cryptography"
     url = "/resources/cryptography"
+    parent = "resources"
+  [[menu.main]]
+    identifier = "binex"
+    name = "Binary Exploitation"
+    url = "/resources/binex"
+    parent = "resources"
+  [[menu.main]]
+    identifier = "rev"
+    name = "Reverse Engineering"
+    url = "/resources/rev"
+    parent = "resources"
+  [[menu.main]]
+    identifier = "webex"
+    name = "Webapp Exploitation"
+    url = "/resources/webex"
+    parent = "resources"
+  [[menu.main]]
+    identifier = "programming"
+    name = "Programming"
+    url = "/resources/programming"
     parent = "resources"

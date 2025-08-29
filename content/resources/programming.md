@@ -1,0 +1,38 @@
++++
+date = '2025-08-27T13:31:57-04:00'
+draft = false
+title = 'Programming'
++++
+
+## Websites
+### [W3Schools](https://www.w3schools.com/)
+W3Schools contains guides for almost any language you could want to learn, including query languages like SQL and specific guides on popular libraries and frameworks like numpy(python) and React(javascript).
+
+### [GeeksforGeeks](https://www.geeksforgeeks.org/)
+Geeks for Geeks is a learning platform similar to W3Schools with guides on many programming languages. However, it has fewer guides on specific libraries and more guides on specific data structures and algorithms.
+
+### [Reading Cdecls](http://www.unixwiz.net/techtips/reading-cdecl.html)
+This is a great article explaining how to read complicated declarations in C.
+
+### [Bootlin Elixir Cross-Referencer](https://elixir.bootlin.com)
+This is a versioned sourcecode repository/search engine for many linux things (glibc, musl-libc, u-boot, linux kernel, zen kernel, and more).
+
+### [grep.app](https://grep.app/)
+Grep.app is a source code search engine covering about 500,000 git repositories. It is a great tool when learning a new language or library.
+
+### [Compiler Explorer](https://godbolt.org/)
+A website that allows you to see how different compilers will compile your code (the .text section at least)
+
+### [Paged Out](https://pagedout.institute/?page=issues.php)
+An online technical magazine that contains article on many topics, including programming.
+
+### [LowLevel University](https://github.com/gurugio/lowlevelprogramming-university?tab=readme-ov-file#future-of-low-level-programming)
+This is a github repository containing resources for learning low level programming with a general focus on linux. It also provides a gerneral roadmap for those who don't know how to start.
+
+
+## Challenges
+### [LeetCode](https://leetcode.com/)
+LeetCode is the industry standard for practicing for coding interviews. Even easy problems can be difficult for the beginner, so don't get disheartened and remember that other people's solutions are a great resource after you have given a challenge your best shot.
+
+### [Exercism](https://exercism.org/)
+Exercism is another platform similar to LeetCode but with challenges tailored to specific languages and a shallower learning curve.

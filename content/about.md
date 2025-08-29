@@ -5,4 +5,8 @@ title = 'About'
 +++
 
 
-This is the about page
+## Cyber Club
+The Citadel Cyber Club meets every other Tuesday at Thompson 220 from `1850-1740` (at least until the end of cadre period).
+
+## Cyber Team
+The Citadel Cyber Team meet
