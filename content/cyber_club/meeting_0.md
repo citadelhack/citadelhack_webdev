@@ -4,7 +4,7 @@ draft = false
 title = 'Cyber Club Meeting 0!'
 +++
 
-The Citadel Cyber Club's first meeting for the 2025-2026 academic year will occur on September 2nd in Thompson 220 from 1850-1940 (due to C1 Family Style Dinner).
+The Citadel Cyber Club's first meeting for the 2025-2026 academic year will occur on September 2nd in Thompson 220 from 1845-1940 (due to C1 Family Style Dinner).
 Pizza Will be provided!
 
 ## Agenda
